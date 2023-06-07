@@ -1,12 +1,12 @@
-<h1 align="center">Hello 🌍, I'm Chrissy Taylor!</h1>
-<h3 align="center">Data Analyst & Storyteller</h3>
+<h1 align="center">Hello 🌍, I'm Chrissy Taylor! </h1>
+<h3 align="center"> 📊 Data Analyst & Storyteller 🌐 </h3>
 <img align="right" alt="Coding" width="350" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGI5ZmY5M2UzOGQwNDM1Y2M5YzM0NWIxNzdjYTk1NDExYTkxYjkyYSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/JWuBH9rCO2uZuHBFpm/giphy.gif">
 
-- 🤌 🇮🇹 🍝 ⛲ 🛶 🏛️  I’m currently working on [ spiffing up this 3-day Python Project on Venice, Italy ](https://github.com/chrissy-taylor/Venice_Italy_AirBnB/)
+- 🎯 I’m currently working on [ spiffing up this 3-day Python Project on Venice, Italy ](https://github.com/chrissy-taylor/Venice_Italy_AirBnB/) 🤌 🇮🇹 🍝 ⛲ 🛶 🏛️
 
 - 🌱 I’m currently learning **Chat GPT prompts for queries.**
 
-- 👯 I’m looking to collaborate on **Life.** 🏜
+- 👥 I’m looking to collaborate on **Life.** 🏜
 
 - 📝 I regularly write articles in my diary.
 
