@@ -8,15 +8,15 @@
 
 - 👯 I’m looking to collaborate on **Life**
 
-- 📝 I regularly write articles on my diary.
+- 📝 I regularly write articles in my diary.
 
-- 💬 Ask me about **my horoscope**
+- 💬 Ask me about **my favorite public park**
 
 - 📫 How to reach me **chrissytaylor2023@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/chrissytaylor2023/](https://www.linkedin.com/in/chrissytaylor2023/)
 
-- ⚡ Fun fact **Writing Python functions by day and jokes for Off-Broadway by night**
+- ⚡ Fun fact: **writing Python functions by day and jokes for Off-Broadway by night**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
